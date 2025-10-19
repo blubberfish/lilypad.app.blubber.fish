@@ -1,0 +1,17 @@
+{
+  "name": "lilypad.app.blubber.fish",
+  "author": {
+    "name": "Chua Siang Poh"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blubberfish/lilypad.app.blubber.fish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blubberfish/lilypad.app.blubber.fish/issues"
+  },
+  "workspaces": [
+    "app/lilypad"
+  ]
+}
